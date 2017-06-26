@@ -24,3 +24,7 @@
     "mysql": "^2.13.0"
   }
 }
+"scripts": {
+   "start": "node server.js"
+ }
+}
