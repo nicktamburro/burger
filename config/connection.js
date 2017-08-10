@@ -10,7 +10,7 @@ if (process.eventNames.JAWSDB_URL){
     user: "root",
     password: "root",
     database: "burgers_db",
-    port: 3000
+    port: 8889
 
 });
 
